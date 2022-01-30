@@ -1,0 +1,21 @@
+NODE -----------------------------------------------------------
+
+Criador: Ryan Dahl
+
+É o JS rodando como BackEnd.
+
+É formado por camadas.
+- uma engine chamada V8 que faz binds no Sistema Operacional / Redes.
+- uma camada C para fazer o bind com o V8.
+- uma camada JS para fazer o bind com o DOM cliente.
+
+
+NPM ------------------------------------------------------------
+
+Ferramenta de controle de bibliotecas e frameworks.
+
+
+
+
+
+

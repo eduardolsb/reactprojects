@@ -1,0 +1,21 @@
+https://www.youtube.com/watch?v=oy4cbqE1_qc
+---------------------------------------------------------------------------------
+* NodeJs - 16.13.1  LTS  -   https://nodejs.org/en/
+
+PROMPT:
+navegar: cd DIR
+criar um diretorio: cd MD DIR 
+verificar o node: node -v
+criar projeto react:  npx create-react-app nomedoprojetocomletrasminusculascd
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+inicia aplicacao: npm start
+inicia build: npm run build
+testa: npm test
+remove: npm run eject
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+abrir edição do projeto (ms vs code): code .
+parar a compilacao: CTRL + C
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+biblioteca icons: npm install react-icons
+biblioteca requisições http: npm install axios
+
